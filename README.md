@@ -1,2 +1,2 @@
-# physicsSim
-An application for users to collaborate virtually on a physics Roller Coaster Simulation
+# Physics Rollercoaster Simulation
+An application for users to collaborate virtually on a physics Rollercoaster Simulation
