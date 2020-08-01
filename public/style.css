@@ -1,0 +1,37 @@
+/* CSS files add styling rules to your content */
+
+body {
+    font-family: Verdana;
+    margin: 2em;
+  }
+  
+  h1 {
+    font-style: italic;
+    color: #373fff;
+  }
+  
+  input{
+    color:rgb(33, 32, 79);
+    width:150px;
+    height:40px;
+    border-radius: 20px;
+    text-align:center;
+    
+    
+  }
+  button{
+    padding:10px;
+    background-color:rgb(33, 32, 79);
+    color:white;
+    display:flex;
+    margin-left:10px;
+    border-radius:10px;
+    margin-top:5px;
+    
+  }
+  text{
+    color:blue;
+  }
+  canvas{
+    border-radius:12px;
+  }
